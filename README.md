@@ -1,2 +1,3 @@
 Joseph Dehoney
-dehoneyj@oregonstate.edu
+dehoneyj@oregonstate.ed
+green
